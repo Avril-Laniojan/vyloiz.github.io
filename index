@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  
+  <title>RECOUPS N' HEAL</title>
+  
+  <style>
+    body {
+         width: 1440px;
+         height: 900px;
+         margin-left: auto;
+         margin-right: auto;
+         background-color: white;
+         }
+  
+    ul {
+        list-style-type: none;
+        overflow: auto;
+        background-color: black;
+        }
+        
+   li {
+      float: left;
+      }
+   
+   li a {
+         display: block;
+         color: white;
+         text-align: center;
+         padding: 14px 16px;
+         text-decoration: none;  
+         }
+   li a:hover {
+            background-color: GoldenRod;
+              }
+              
+   #header {
+            background-color: PaleGoldenRod;
+           }
+</style>
+</head>
+
+<body>
+
+<div id="header">
+        <h1>RECOUPS N' HEAL</h1>
+	</div>
+  
+</body>
+</html>
